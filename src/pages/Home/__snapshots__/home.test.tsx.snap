@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`home page shoudl render 1`] = `
+<div>
+  <form>
+    <input
+      placeholder="Participant\`s name"
+      type="text"
+      value=""
+    />
+    <button
+      disabled=""
+      type="submit"
+    >
+      add
+    </button>
+    
+  </form>
+  <ul />
+  <button
+    disabled=""
+  >
+    Draw
+  </button>
+</div>
+`;
